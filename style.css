@@ -1,0 +1,57 @@
+/*Style for body*/
+body{
+background-color:#a3c7cf;
+      text-align:center;
+    }  
+/*Style for paragraph tag*/
+#firstp{
+  word-spacing: 50px;
+  font-variant: small-caps;
+  text-align: center;
+  font-size: 90px;
+      }
+
+#reason1{
+  font-size:40px;
+       }
+
+/*style for image tag*/
+#image1{
+  border-style:solid;
+  border-color:#D50000
+  border: 5px ;
+  border-radius: 80px;
+  padding: 5px;
+  width: 450px;
+  height: 450px;
+        }
+#reason2{
+  font-size:40px;
+        }
+#image2{
+   border-style:solid;
+  border-color:#D50000
+  border: 5px ;
+  border-radius: 80px;
+  padding: 5px;
+  width: 350px;
+  height: 350px;
+       }
+#reason3{
+  font-size:40px;
+        }
+#image3{
+  
+        }
+#reason4{
+  font-size:40px;
+        }
+#image4{
+  
+        }
+#reason5{
+  font-size:40px;
+        }
+#image5{
+  
+        }
